@@ -11,3 +11,9 @@ PS: You can just double click on index.html :P
 The red dot is you and the big rectangle is the evil,
 you gotta go after the evil and increase you're score.
 Enjoy.!
+
+# Keys to play the game
+W - to move up the plane.
+S - to move down the plane.
+A - to move left and  
+D - to move on the right.
